@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/NileshVS/ExpressJS/issues"
   },
-  "homepage": "https://github.com/NileshVS/ExpressJS#readme"
+  "homepage": "https://github.com/NileshVS/ExpressJS#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
