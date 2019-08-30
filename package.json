@@ -1,0 +1,22 @@
+{
+  "name": "expressjs",
+  "version": "1.0.0",
+  "description": "Practise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NileshVS/ExpressJS.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "Nilesh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NileshVS/ExpressJS/issues"
+  },
+  "homepage": "https://github.com/NileshVS/ExpressJS#readme"
+}
